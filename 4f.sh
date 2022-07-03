@@ -2,7 +2,6 @@ echo "Nhap vao ten mot folder: "
 read DIR
 if [ -d "$DIR" ]; then
   ### Take action if $DIR exists ###
-  echo "Installing config files in ${DIR}..."
 	for entry in `ls $DIR`; do
 	
 	    if [ ! -s $DIR/$entry ]

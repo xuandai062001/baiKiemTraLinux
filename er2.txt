@@ -1,0 +1,3 @@
+Error: kkkkk not found. Can not continue.
+Error: ffffffffffffffffff not found. Can not continue.
+so luong folder la 5
