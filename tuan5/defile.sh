@@ -18,7 +18,7 @@ case $choice in
 		echo "cac file tren da xoa"
 	;;
 	n)
-		echo"ban da khong xoa cac file"
+		echo "ban da khong xoa cac file"
 	;;
 esac
 	

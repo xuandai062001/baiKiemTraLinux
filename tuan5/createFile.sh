@@ -1,4 +1,4 @@
-max=10
+max=4
 for (( i=1; i <= $max; ++i ))
 do
 	textFile="txt"$i".txt" 
