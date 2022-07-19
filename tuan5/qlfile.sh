@@ -96,8 +96,8 @@ function renamefile(){
 	done
 }
 function calculate(){
-	result=$(($1 $2 $3))
-	echo "$1 $2 $3 = $result"
+	#result= let "$1 $2 $3"
+	echo "$1 $2 $3"
 }
 echo "1. Xoa cac file
 2. Copy file vao mot thu muc bat ky
